@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">MyMusic</string>
+    <string name="tv_last_visited">Last visited: </string>
+    <string name="tv_no_description">No description</string>
+    <string name="tv_no_trackname">No track name</string>
+    <string name="tv_no_genre">No genre</string>
 </resources>
